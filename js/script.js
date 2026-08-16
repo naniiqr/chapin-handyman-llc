@@ -1,4 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
+  var prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
   // Mobile nav toggle
   var navToggle = document.querySelector('.nav-toggle');
   var mainNav = document.querySelector('.main-nav');
@@ -7,13 +9,17 @@ document.addEventListener('DOMContentLoaded', function () {
       mainNav.classList.toggle('open');
       navToggle.classList.toggle('active');
     });
-    mainNav.querySelectorAll('a').forEach(function (link) {
-      link.addEventListener('click', function () {
-        mainNav.classList.remove('open');
-        navToggle.classList.remove('active');
-      });
-    });
   }
+
+  // Services dropdown: click-to-toggle on touch/mobile, hover still works via CSS on desktop
+  document.querySelectorAll('.has-sub > a').forEach(function (trigger) {
+    trigger.addEventListener('click', function (e) {
+      if (window.innerWidth <= 980) {
+        e.preventDefault();
+        trigger.parentElement.classList.toggle('open');
+      }
+    });
+  });
 
   // Footer year
   var yearEl = document.getElementById('year');
@@ -27,21 +33,49 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // Scroll-reveal animation for key sections
-  var revealTargets = document.querySelectorAll(
-    '.service-card, .why-card, .process-step, .testimonial-card, .stat, .areas-copy, .contact-form'
-  );
-  if ('IntersectionObserver' in window && revealTargets.length) {
-    revealTargets.forEach(function (el) { el.classList.add('reveal-init'); });
+  // Scroll-reveal animation
+  var revealTargets = document.querySelectorAll('.reveal');
+  if (prefersReduced || !('IntersectionObserver' in window)) {
+    revealTargets.forEach(function (el) { el.classList.add('in-view'); });
+  } else if (revealTargets.length) {
     var observer = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {
         if (entry.isIntersecting) {
-          entry.target.classList.add('is-visible');
+          entry.target.classList.add('in-view');
           observer.unobserve(entry.target);
         }
       });
-    }, { threshold: 0.15, rootMargin: '0px 0px -40px 0px' });
+    }, { threshold: 0.14, rootMargin: '0px 0px -40px 0px' });
     revealTargets.forEach(function (el) { observer.observe(el); });
+  }
+
+  // Animated stat counters
+  var counters = document.querySelectorAll('.stat-num[data-count]');
+  if (counters.length) {
+    var runCounter = function (el) {
+      var target = parseFloat(el.getAttribute('data-count'));
+      var suffix = el.getAttribute('data-suffix') || '';
+      if (prefersReduced) { el.textContent = target + suffix; return; }
+      var dur = 1100, start = null;
+      function step(ts) {
+        if (!start) start = ts;
+        var p = Math.min((ts - start) / dur, 1);
+        var eased = 1 - Math.pow(1 - p, 3);
+        el.textContent = Math.round(target * eased) + suffix;
+        if (p < 1) requestAnimationFrame(step);
+      }
+      requestAnimationFrame(step);
+    };
+    if ('IntersectionObserver' in window) {
+      var cObserver = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) { runCounter(entry.target); cObserver.unobserve(entry.target); }
+        });
+      }, { threshold: 0.5 });
+      counters.forEach(function (el) { cObserver.observe(el); });
+    } else {
+      counters.forEach(runCounter);
+    }
   }
 
   // Lead forms: front-end only placeholder submit
