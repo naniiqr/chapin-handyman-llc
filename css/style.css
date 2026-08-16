@@ -72,14 +72,16 @@ button,select,input,textarea{font-family:inherit;}
 .main-nav a, .main-nav .svc-toggle{font-weight:600; font-size:.9rem; color:var(--gray-700); touch-action:manipulation;}
 .main-nav a:hover{color:var(--red);}
 .svc-toggle{
-  font-family:inherit; background:none; border:none; padding:0; margin:0; cursor:pointer;
+  font-family:inherit; background:none; border:none; padding:0; margin:0; cursor:pointer; outline:none;
   display:inline-flex; align-items:center; gap:4px;
 }
 .svc-toggle:hover{color:var(--red);}
+.svc-toggle:focus-visible{outline:2px solid var(--red); outline-offset:4px; border-radius:4px;}
 .has-sub .sub-menu{
   display:none; position:absolute; top:100%; left:50%; transform:translateX(-50%); background:#fff; min-width:290px;
   box-shadow:var(--shadow-lg); border:1px solid var(--line); border-radius:var(--r-md); padding:8px; margin-top:16px;
 }
+.has-sub .sub-menu::before{content:""; position:absolute; top:-16px; left:0; right:0; height:16px; background:transparent;}
 .has-sub.open .sub-menu{display:block;}
 .has-sub .sub-menu li a{display:block; padding:10px 14px; border-radius:8px; font-size:.87rem; touch-action:manipulation;}
 .has-sub .sub-menu li a:hover{background:var(--red); color:#fff;}
