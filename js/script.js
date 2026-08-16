@@ -21,6 +21,16 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
+  // Close the mobile menu after tapping a real link (not the Services toggle)
+  if (mainNav && navToggle) {
+    mainNav.querySelectorAll('a:not(.has-sub > a)').forEach(function (link) {
+      link.addEventListener('click', function () {
+        mainNav.classList.remove('open');
+        navToggle.classList.remove('active');
+      });
+    });
+  }
+
   // Footer year
   var yearEl = document.getElementById('year');
   if (yearEl) yearEl.textContent = new Date().getFullYear();
