@@ -354,4 +354,5 @@ html, body{overflow-x:hidden; max-width:100%;}
   .header-cta{display:none;}
   .hero-credential-card{padding:16px 6px;}
   .hc-num{font-size:.92rem;}
+  .tb-years{display:none;}
 }
