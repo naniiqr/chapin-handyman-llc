@@ -12,18 +12,17 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // Services dropdown: click-to-toggle on touch/mobile, hover still works via CSS on desktop
-  document.querySelectorAll('.has-sub > a').forEach(function (trigger) {
-    trigger.addEventListener('click', function (e) {
+  document.querySelectorAll('.has-sub > .svc-toggle').forEach(function (trigger) {
+    trigger.addEventListener('click', function () {
       if (window.innerWidth <= 980) {
-        e.preventDefault();
         trigger.parentElement.classList.toggle('open');
       }
     });
   });
 
-  // Close the mobile menu after tapping a real link (not the Services toggle)
+  // Close the mobile menu after tapping a real link
   if (mainNav && navToggle) {
-    mainNav.querySelectorAll('a:not(.has-sub > a)').forEach(function (link) {
+    mainNav.querySelectorAll('a').forEach(function (link) {
       link.addEventListener('click', function () {
         mainNav.classList.remove('open');
         navToggle.classList.remove('active');
