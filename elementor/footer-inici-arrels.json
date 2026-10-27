@@ -1,0 +1,745 @@
+{
+  "content": [
+    {
+      "id": "9a7a9f2",
+      "elType": "container",
+      "settings": {
+        "html_tag": "footer",
+        "content_width": "full",
+        "flex_direction": "column",
+        "background_background": "classic",
+        "background_color": "#1e2d22",
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px",
+          "size": 0
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "46",
+          "bottom": "0",
+          "left": "46",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "0",
+          "right": "24",
+          "bottom": "0",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "0",
+          "right": "16",
+          "bottom": "0",
+          "left": "16",
+          "isLinked": false
+        },
+        "css_classes": "arrels-footer arrels-footer--home"
+      },
+      "elements": [
+        {
+          "id": "2eee138",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "row",
+            "flex_direction_tablet": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_align_items": "flex-start",
+            "flex_gap": {
+              "column": "0",
+              "row": "28",
+              "isLinked": false,
+              "unit": "px",
+              "size": 0
+            },
+            "padding": {
+              "unit": "px",
+              "top": "50",
+              "right": "0",
+              "bottom": "50",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "40",
+              "right": "0",
+              "bottom": "36",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "32",
+              "right": "0",
+              "bottom": "28",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "feb6b72",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "10",
+                  "row": "10",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 10
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "16",
+                  "bottom": "0",
+                  "left": "16",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "56409af",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/logo.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Arrels de l'Empordà",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "width": {
+                      "unit": "px",
+                      "size": 72,
+                      "sizes": []
+                    },
+                    "align": "left",
+                    "_element_width": "initial"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "0118932",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Conreant natura a l'Alt Empordà. Alvocats ecològics directament de l'arbre a casa teva amb tot el sabor i la frescor de la nostra terra.</p>",
+                    "text_color": "#ffffff",
+                    "align": "left",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.4,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "0605032",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "10",
+                  "row": "10",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 10
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 20,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "32",
+                  "bottom": "0",
+                  "left": "40",
+                  "isLinked": false
+                },
+                "padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "16",
+                  "bottom": "0",
+                  "left": "16",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "border_border": "solid",
+                "border_color": "rgba(255,255,255,0.25)",
+                "border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "1",
+                  "isLinked": false
+                },
+                "border_width_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "1",
+                  "isLinked": false
+                },
+                "border_width_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "dcb807d",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Enllaços",
+                    "header_size": "h2",
+                    "title_color": "#ffffff",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Syne",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18.7,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "4675a9d",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<ul style=\"list-style:none;margin:0;padding:0;line-height:1.9\"><li><a href=\"/\" style=\"color:#fff;text-decoration:none\">Inici</a></li><li><a href=\"/els-nostres-alvocats/\" style=\"color:#fff;text-decoration:none\">Els nostres alvocats</a></li><li><a href=\"/botiga/\" style=\"color:#fff;text-decoration:none\">Botiga</a></li><li><a href=\"/la-nostra-finca/\" style=\"color:#fff;text-decoration:none\">La nostra finca</a></li><li><a href=\"/receptes/\" style=\"color:#fff;text-decoration:none\">Receptes</a></li><li><a href=\"/contacte/\" style=\"color:#fff;text-decoration:none\">Contacte</a></li></ul>",
+                    "text_color": "#ffffff",
+                    "align": "left",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16.5,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.4,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "8cecbb7",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "10",
+                  "row": "10",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 10
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "32",
+                  "bottom": "0",
+                  "left": "40",
+                  "isLinked": false
+                },
+                "padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "16",
+                  "bottom": "0",
+                  "left": "16",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "border_border": "solid",
+                "border_color": "rgba(255,255,255,0.25)",
+                "border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "1",
+                  "isLinked": false
+                },
+                "border_width_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "1",
+                  "isLinked": false
+                },
+                "border_width_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "b8a4460",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Contacte",
+                    "header_size": "h2",
+                    "title_color": "#ffffff",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Syne",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18.7,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "b6b91a2",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Tel: <a href=\"tel:+34600000000\" style=\"color:#fff;text-decoration:none\">+34 600 000 000</a><br>Email: <a href=\"mailto:info@arrelsdelemporda.cat\" style=\"color:#fff;text-decoration:none\">info@arrelsdelemporda.cat</a><br>Pedret i Marzà, Alt Empordà (Girona)</p>",
+                    "text_color": "#ffffff",
+                    "align": "left",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16.5,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.4,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": false
+            },
+            {
+              "id": "044f2a6",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "10",
+                  "row": "10",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 10
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 30,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "32",
+                  "bottom": "0",
+                  "left": "40",
+                  "isLinked": false
+                },
+                "padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "16",
+                  "bottom": "0",
+                  "left": "16",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "border_border": "solid",
+                "border_color": "rgba(255,255,255,0.25)",
+                "border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "1",
+                  "isLinked": false
+                },
+                "border_width_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "1",
+                  "isLinked": false
+                },
+                "border_width_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "5302940",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Segueix-nos",
+                    "header_size": "h2",
+                    "title_color": "#ffffff",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Syne",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18.7,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "1634b5f",
+                  "elType": "widget",
+                  "widgetType": "social-icons",
+                  "settings": {
+                    "social_icon_list": [
+                      {
+                        "_id": "36a6188",
+                        "social_icon": {
+                          "value": "fab fa-instagram",
+                          "library": "fa-brands"
+                        },
+                        "link": {
+                          "url": "",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "item_icon_color": "custom",
+                        "item_icon_primary_color": "#e1306c",
+                        "item_icon_secondary_color": "#ffffff"
+                      },
+                      {
+                        "_id": "18bbcb6",
+                        "social_icon": {
+                          "value": "fab fa-tiktok",
+                          "library": "fa-brands"
+                        },
+                        "link": {
+                          "url": "",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "item_icon_color": "custom",
+                        "item_icon_primary_color": "#000000",
+                        "item_icon_secondary_color": "#ffffff"
+                      }
+                    ],
+                    "shape": "circle",
+                    "align": "left",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    },
+                    "icon_padding": {
+                      "unit": "em",
+                      "size": 0.7,
+                      "sizes": []
+                    },
+                    "icon_spacing": {
+                      "unit": "px",
+                      "size": 10,
+                      "sizes": []
+                    },
+                    "columns": "0"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "577eb74",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Avís legal &nbsp;·&nbsp; Política de privacitat<br>Política de cookies &nbsp;·&nbsp; Condicions de compra<br>Enviaments i devolucions</p>",
+                    "text_color": "#cdd6cf",
+                    "align": "left",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13.5,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.4,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": false
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "8be9679",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "1",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "border_color": "rgba(255,255,255,0.2)",
+            "min_height": {
+              "unit": "px",
+              "size": 1,
+              "sizes": []
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            }
+          },
+          "elements": [],
+          "isInner": false
+        },
+        {
+          "id": "b7163ce",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "padding": {
+              "unit": "px",
+              "top": "40",
+              "right": "0",
+              "bottom": "28",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "28",
+              "right": "0",
+              "bottom": "24",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "24",
+              "right": "0",
+              "bottom": "20",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "0946f04",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>© 2026 Arrels de l'Empordà. Tots els drets reservats.</p>",
+                "text_color": "#7d8d80",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Cormorant Garamond",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.4,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "Arrels · Footer inici",
+  "type": "footer"
+}
