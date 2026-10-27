@@ -1,0 +1,4917 @@
+{
+  "content": [
+    {
+      "id": "5a34d1e",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "flex_direction": "row",
+        "flex_align_items": "center",
+        "flex_justify_content": "flex-end",
+        "flex_justify_content_tablet": "center",
+        "flex_justify_content_mobile": "center",
+        "min_height": {
+          "unit": "px",
+          "size": 600,
+          "sizes": []
+        },
+        "min_height_tablet": {
+          "unit": "px",
+          "size": 480,
+          "sizes": []
+        },
+        "min_height_mobile": {
+          "unit": "px",
+          "size": 440,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "44",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "24",
+          "right": "24",
+          "bottom": "24",
+          "left": "24",
+          "isLinked": true
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "16",
+          "right": "16",
+          "bottom": "16",
+          "left": "16",
+          "isLinked": true
+        },
+        "background_background": "classic",
+        "background_image": {
+          "url": "https://naniiqr.github.io/chapin-handyman-llc/img/hero-home.webp",
+          "id": "",
+          "size": "",
+          "alt": "",
+          "source": "library"
+        },
+        "background_position": "center center",
+        "background_size": "cover",
+        "background_repeat": "no-repeat"
+      },
+      "elements": [
+        {
+          "id": "25ea168",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "column": "12",
+              "row": "12",
+              "isLinked": true,
+              "unit": "px",
+              "size": 12
+            },
+            "width": {
+              "unit": "px",
+              "size": 610,
+              "sizes": []
+            },
+            "width_tablet": {
+              "unit": "%",
+              "size": 70,
+              "sizes": []
+            },
+            "width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_align_items": "flex-start",
+            "padding": {
+              "unit": "px",
+              "top": "44",
+              "right": "44",
+              "bottom": "44",
+              "left": "44",
+              "isLinked": true
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "32",
+              "right": "32",
+              "bottom": "32",
+              "left": "32",
+              "isLinked": true
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "24",
+              "right": "22",
+              "bottom": "24",
+              "left": "22",
+              "isLinked": false
+            },
+            "background_background": "classic",
+            "background_color": "rgba(234,223,193,0.94)",
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "1",
+              "right": "1",
+              "bottom": "1",
+              "left": "1",
+              "isLinked": true
+            },
+            "border_color": "rgba(30,45,34,0.35)"
+          },
+          "elements": [
+            {
+              "id": "ab73149",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Alvocats ecològics de l'Empordà",
+                "header_size": "p",
+                "title_color": "#1e2d22",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Syne",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 11.5,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.3,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 0.65,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "ebb8c8e",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Del nostre arbre a casa teva",
+                "header_size": "h1",
+                "title_color": "#1e2d22",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Cormorant Garamond",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 48,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.06,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "281ad37",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Alvocats cultivats amb cura, respectant la natura i amb tot el seu sabor. Directament de la nostra finca a casa teva.",
+                "text_color": "#1e2d22",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Cormorant Garamond",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.4,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "a19add2",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Compra la collita",
+                "link": {
+                  "url": "/botiga/",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "left",
+                "size": "md",
+                "button_text_color": "#ffffff",
+                "background_color": "#5e7b2c",
+                "button_background_hover_color": "#4c6622",
+                "hover_color": "#ffffff",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "999",
+                  "right": "999",
+                  "bottom": "999",
+                  "left": "999",
+                  "isLinked": true
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": "12",
+                  "right": "38",
+                  "bottom": "12",
+                  "left": "38",
+                  "isLinked": false
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Cormorant Garamond",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16.6,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 0.6,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "081b16b",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px",
+          "size": 0
+        },
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "46",
+          "bottom": "72",
+          "left": "46",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "48",
+          "right": "24",
+          "bottom": "48",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "40",
+          "right": "16",
+          "bottom": "40",
+          "left": "16",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#d2d1c3",
+        "custom_css": "selector{position:relative;overflow:hidden;isolation:isolate}selector::before,selector::after{content:'';position:absolute;z-index:-1;top:6%;bottom:6%;width:clamp(120px,18vw,260px);background:url(https://naniiqr.github.io/chapin-handyman-llc/img/leaf.png) center/contain no-repeat;opacity:.32;mix-blend-mode:screen;filter:blur(2.2px);pointer-events:none}selector::before{left:-1%;transform:scaleX(-1) rotate(-14deg)}selector::after{right:-1%;transform:rotate(10deg)}",
+        "flex_align_items": "stretch"
+      },
+      "elements": [
+        {
+          "id": "47cfc27",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "column": "8",
+              "row": "8",
+              "isLinked": true,
+              "unit": "px",
+              "size": 8
+            },
+            "flex_align_items": "center",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "38",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "28",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "24",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "146d2b0",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Quatre varietats. Un mateix origen",
+                "header_size": "p",
+                "title_color": "#1e2d22",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Syne",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 11.5,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.3,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 0.65,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "4cf2194",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Els nostres alvocats",
+                "header_size": "h2",
+                "title_color": "#1e2d22",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Syne",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 45,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 28,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.08,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "bd2ac89",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Cultivem diferents varietats per oferir-te el millor sabor durant tota la temporada.",
+                "text_color": "#1e2d22",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Cormorant Garamond",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.4,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "f185225",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_gap": {
+              "column": "40",
+              "row": "28",
+              "isLinked": false,
+              "unit": "px",
+              "size": 40
+            },
+            "flex_wrap": "nowrap",
+            "flex_direction": "row",
+            "flex_justify_content": "center",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "36",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "28",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "24",
+              "left": "0",
+              "isLinked": false
+            },
+            "flex_wrap_tablet": "wrap",
+            "flex_wrap_mobile": "wrap",
+            "_element_width": "initial",
+            "flex_gap_tablet": {
+              "column": "24",
+              "row": "24",
+              "isLinked": true,
+              "unit": "px",
+              "size": 24
+            },
+            "flex_gap_mobile": {
+              "column": "12",
+              "row": "24",
+              "isLinked": false,
+              "unit": "px",
+              "size": 12
+            }
+          },
+          "elements": [
+            {
+              "id": "0ae79a5",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "4",
+                  "row": "4",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 4
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "0f8de2e",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/cut-hass.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Alvocat Hass",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "px",
+                      "size": 210,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "e774259",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Hass",
+                    "header_size": "h3",
+                    "title_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.2,
+                      "sizes": []
+                    },
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.5,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "2b0bd0b",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Sabor intens i textura cremosa.",
+                    "text_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "856deec",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "4",
+                  "row": "4",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 4
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "d32078b",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/cut-pinkerton.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Alvocat Pinkerton",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "px",
+                      "size": 210,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "49a0230",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Pinkerton",
+                    "header_size": "h3",
+                    "title_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.2,
+                      "sizes": []
+                    },
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.5,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "5bd0bad",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Gran equilibri i excel·lent qualitat.",
+                    "text_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "99ff292",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "4",
+                  "row": "4",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 4
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "b047fff",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/cut-fuerte.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Alvocat Fuerte",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "px",
+                      "size": 210,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "b22395a",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Fuerte",
+                    "header_size": "h3",
+                    "title_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.2,
+                      "sizes": []
+                    },
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.5,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "3f09530",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Sabor suau i delicat.",
+                    "text_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "8557acb",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "4",
+                  "row": "4",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 4
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "3bbbb42",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/cut-bacon.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Alvocat Bacon",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "px",
+                      "size": 210,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "e1074af",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bacon",
+                    "header_size": "h3",
+                    "title_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 15,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 14,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.2,
+                      "sizes": []
+                    },
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.5,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "9a87222",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Ideal per a qui busca un sabor més suau.",
+                    "text_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "843d5e1",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Descobreix totes les varietats",
+            "link": {
+              "url": "/els-nostres-alvocats/",
+              "is_external": "",
+              "nofollow": "",
+              "custom_attributes": ""
+            },
+            "align": "center",
+            "size": "md",
+            "button_text_color": "#ffffff",
+            "background_color": "#5e7b2c",
+            "button_background_hover_color": "#4c6622",
+            "hover_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": "999",
+              "right": "999",
+              "bottom": "999",
+              "left": "999",
+              "isLinked": true
+            },
+            "text_padding": {
+              "unit": "px",
+              "top": "12",
+              "right": "34",
+              "bottom": "12",
+              "left": "34",
+              "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Cormorant Garamond",
+            "typography_font_weight": "600",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 16.6,
+              "sizes": []
+            },
+            "typography_text_transform": "uppercase",
+            "typography_letter_spacing": {
+              "unit": "px",
+              "size": 0.6,
+              "sizes": []
+            }
+          },
+          "elements": []
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "0f243f3",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px",
+          "size": 0
+        },
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "46",
+          "bottom": "72",
+          "left": "46",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "48",
+          "right": "24",
+          "bottom": "48",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "40",
+          "right": "16",
+          "bottom": "40",
+          "left": "16",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#f1f6d6",
+        "custom_css": "selector{position:relative;overflow:hidden;isolation:isolate}selector::before,selector::after{content:'';position:absolute;z-index:-1;top:6%;bottom:6%;width:clamp(120px,18vw,260px);background:url(https://naniiqr.github.io/chapin-handyman-llc/img/leaf.png) center/contain no-repeat;opacity:.15;filter:blur(2.2px) brightness(.7) sepia(.4) hue-rotate(40deg);pointer-events:none}selector::before{left:-1%;transform:scaleX(-1) rotate(-14deg)}selector::after{right:-1%;transform:rotate(10deg)}"
+      },
+      "elements": [
+        {
+          "id": "8c6aa80",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "column": "8",
+              "row": "8",
+              "isLinked": true,
+              "unit": "px",
+              "size": 8
+            },
+            "flex_align_items": "center",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "38",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "28",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "24",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "93a9832",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Tria la teva caixa",
+                "header_size": "h2",
+                "title_color": "#1e2d22",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Syne",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 45,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 28,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.08,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "7492511",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Alvocats acabats de collir, directament de la nostra finca a casa teva.",
+                "text_color": "#1e2d22",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Cormorant Garamond",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.4,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "d963bc0",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_gap": {
+              "column": "28",
+              "row": "28",
+              "isLinked": true,
+              "unit": "px",
+              "size": 28
+            },
+            "flex_wrap": "nowrap",
+            "flex_direction": "row",
+            "flex_justify_content": "center",
+            "flex_wrap_tablet": "wrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap_tablet": {
+              "column": "24",
+              "row": "32",
+              "isLinked": false,
+              "unit": "px",
+              "size": 24
+            },
+            "flex_gap_mobile": {
+              "column": "20",
+              "row": "32",
+              "isLinked": false,
+              "unit": "px",
+              "size": 20
+            }
+          },
+          "elements": [
+            {
+              "id": "cf84131",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "6",
+                  "row": "6",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 6
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "451a09b",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/caixa-6.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Caixa 6",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "px",
+                      "size": 270,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "dcb807d",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Caixa 6",
+                    "header_size": "h3",
+                    "title_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Syne",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 26,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 24,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.08,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "09385af",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "La preferida",
+                    "header_size": "p",
+                    "title_color": "#5e7b2c",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 11.5,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 11.5,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 11,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    },
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.7,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "5ff55bb",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Ideal per tastar els nostres alvocats i gaudir-los a casa.",
+                    "text_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "d9887c0",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "_id": "74d6483",
+                        "text": "6 alvocats",
+                        "selected_icon": {
+                          "value": "fas fa-leaf",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      {
+                        "_id": "f11de38",
+                        "text": "Enviament inclòs",
+                        "selected_icon": {
+                          "value": "fas fa-truck",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      }
+                    ],
+                    "view": "traditional",
+                    "align": "center",
+                    "icon_color": "#1e2d22",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "text_color": "#1e2d22",
+                    "icon_align": "center",
+                    "space_between": {
+                      "unit": "px",
+                      "size": 4,
+                      "sizes": []
+                    },
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_family": "Cormorant Garamond",
+                    "icon_typography_font_weight": "600",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "8125ff5",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "Comprar",
+                    "link": {
+                      "url": "/botiga/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "align": "center",
+                    "size": "md",
+                    "button_text_color": "#ffffff",
+                    "background_color": "#5e7b2c",
+                    "button_background_hover_color": "#4c6622",
+                    "hover_color": "#ffffff",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "999",
+                      "right": "999",
+                      "bottom": "999",
+                      "left": "999",
+                      "isLinked": true
+                    },
+                    "text_padding": {
+                      "unit": "px",
+                      "top": "11",
+                      "right": "34",
+                      "bottom": "11",
+                      "left": "34",
+                      "isLinked": false
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16.6,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.6,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "9a7a9f2",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "6",
+                  "row": "6",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 6
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "0984410",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/caixa-12.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Caixa 12",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "px",
+                      "size": 270,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "113888d",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Caixa 12",
+                    "header_size": "h3",
+                    "title_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Syne",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 26,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 24,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.08,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "cb3fb9f",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Per als amants de l'alvocat",
+                    "header_size": "p",
+                    "title_color": "#5e7b2c",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 11.5,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 11.5,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 11,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    },
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.7,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "8afea97",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Per a qui sempre en vol tenir a casa.",
+                    "text_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "d96a60d",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "_id": "b660dab",
+                        "text": "12 alvocats",
+                        "selected_icon": {
+                          "value": "fas fa-leaf",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      {
+                        "_id": "85f5c1d",
+                        "text": "Enviament inclòs",
+                        "selected_icon": {
+                          "value": "fas fa-truck",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      }
+                    ],
+                    "view": "traditional",
+                    "align": "center",
+                    "icon_color": "#1e2d22",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "text_color": "#1e2d22",
+                    "icon_align": "center",
+                    "space_between": {
+                      "unit": "px",
+                      "size": 4,
+                      "sizes": []
+                    },
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_family": "Cormorant Garamond",
+                    "icon_typography_font_weight": "600",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "71b98ee",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "Comprar",
+                    "link": {
+                      "url": "/botiga/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "align": "center",
+                    "size": "md",
+                    "button_text_color": "#ffffff",
+                    "background_color": "#5e7b2c",
+                    "button_background_hover_color": "#4c6622",
+                    "hover_color": "#ffffff",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "999",
+                      "right": "999",
+                      "bottom": "999",
+                      "left": "999",
+                      "isLinked": true
+                    },
+                    "text_padding": {
+                      "unit": "px",
+                      "top": "11",
+                      "right": "34",
+                      "bottom": "11",
+                      "left": "34",
+                      "isLinked": false
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16.6,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.6,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4fbda18",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "6",
+                  "row": "6",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 6
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "39d8cd9",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/caixa-mix.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Caixa Mix",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "px",
+                      "size": 270,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "50bed7a",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Caixa Mix",
+                    "header_size": "h3",
+                    "title_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Syne",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 26,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 24,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.08,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "5761704",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Tasta les nostres varietats",
+                    "header_size": "p",
+                    "title_color": "#5e7b2c",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 11.5,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 11.5,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 11,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    },
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.7,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "1c03085",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Una selecció dels quatre tipus d'alvocat de la nostra finca.",
+                    "text_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "38644fe",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "_id": "08ceedf",
+                        "text": "4 varietats",
+                        "selected_icon": {
+                          "value": "fas fa-leaf",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      {
+                        "_id": "696db95",
+                        "text": "Enviament inclòs",
+                        "selected_icon": {
+                          "value": "fas fa-truck",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      }
+                    ],
+                    "view": "traditional",
+                    "align": "center",
+                    "icon_color": "#1e2d22",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "text_color": "#1e2d22",
+                    "icon_align": "center",
+                    "space_between": {
+                      "unit": "px",
+                      "size": 4,
+                      "sizes": []
+                    },
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_family": "Cormorant Garamond",
+                    "icon_typography_font_weight": "600",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "6fa1af5",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "Comprar",
+                    "link": {
+                      "url": "/botiga/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "align": "center",
+                    "size": "md",
+                    "button_text_color": "#ffffff",
+                    "background_color": "#5e7b2c",
+                    "button_background_hover_color": "#4c6622",
+                    "hover_color": "#ffffff",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "999",
+                      "right": "999",
+                      "bottom": "999",
+                      "left": "999",
+                      "isLinked": true
+                    },
+                    "text_padding": {
+                      "unit": "px",
+                      "top": "11",
+                      "right": "34",
+                      "bottom": "11",
+                      "left": "34",
+                      "isLinked": false
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16.6,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.6,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "1393a6c",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "6",
+                  "row": "6",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 6
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 25,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_align_items": "center"
+              },
+              "elements": [
+                {
+                  "id": "09171c9",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/caixa-teva.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "La teva caixa",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "px",
+                      "size": 270,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "9232cbf",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "La teva caixa",
+                    "header_size": "h3",
+                    "title_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Syne",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 27,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 26,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 24,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.08,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "bca2f1f",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Fes-la al teu gust",
+                    "header_size": "p",
+                    "title_color": "#5e7b2c",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 11.5,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 11.5,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 11,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    },
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.7,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "ec03a30",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "Tria la varietat que més t'agrada i la quantitat que vols.",
+                    "text_color": "#1e2d22",
+                    "align": "center",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.25,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "ef09abd",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "_id": "dd1d262",
+                        "text": "Personalitza la teva caixa",
+                        "selected_icon": {
+                          "value": "fas fa-heart",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      {
+                        "_id": "79ad1c9",
+                        "text": "Enviament inclòs",
+                        "selected_icon": {
+                          "value": "fas fa-truck",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      }
+                    ],
+                    "view": "traditional",
+                    "align": "center",
+                    "icon_color": "#1e2d22",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "text_color": "#1e2d22",
+                    "icon_align": "center",
+                    "space_between": {
+                      "unit": "px",
+                      "size": 4,
+                      "sizes": []
+                    },
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_family": "Cormorant Garamond",
+                    "icon_typography_font_weight": "600",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "a2e84f4",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "Comprar",
+                    "link": {
+                      "url": "/botiga/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "align": "center",
+                    "size": "md",
+                    "button_text_color": "#ffffff",
+                    "background_color": "#5e7b2c",
+                    "button_background_hover_color": "#4c6622",
+                    "hover_color": "#ffffff",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "999",
+                      "right": "999",
+                      "bottom": "999",
+                      "left": "999",
+                      "isLinked": true
+                    },
+                    "text_padding": {
+                      "unit": "px",
+                      "top": "11",
+                      "right": "34",
+                      "bottom": "11",
+                      "left": "34",
+                      "isLinked": false
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16.6,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.6,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "bfd2b4b",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px",
+          "size": 0
+        },
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "0",
+          "bottom": "72",
+          "left": "46",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "48",
+          "right": "24",
+          "bottom": "48",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "40",
+          "right": "16",
+          "bottom": "40",
+          "left": "16",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#d2d1c3"
+      },
+      "elements": [
+        {
+          "id": "9aa1c22",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_gap": {
+              "column": "56",
+              "row": "56",
+              "isLinked": true,
+              "unit": "px",
+              "size": 56
+            },
+            "flex_wrap": "nowrap",
+            "flex_direction": "row",
+            "flex_direction_tablet": "column",
+            "flex_direction_mobile": "column",
+            "flex_align_items": "center",
+            "flex_align_items_tablet": "flex-start",
+            "flex_align_items_mobile": "flex-start",
+            "flex_gap_tablet": {
+              "column": "28",
+              "row": "28",
+              "isLinked": true,
+              "unit": "px",
+              "size": 28
+            },
+            "flex_gap_mobile": {
+              "column": "24",
+              "row": "24",
+              "isLinked": true,
+              "unit": "px",
+              "size": 24
+            }
+          },
+          "elements": [
+            {
+              "id": "6067604",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "14",
+                  "row": "14",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 14
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 52,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_align_items": "flex-start",
+                "flex_justify_content": "center",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "467e99c",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "La nostra finca",
+                    "header_size": "p",
+                    "title_color": "#1e2d22",
+                    "align": "left",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Syne",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 12,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 11.5,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.3,
+                      "sizes": []
+                    },
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.65,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "bed5fc3",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Arrels de l'Empordà",
+                    "header_size": "h2",
+                    "title_color": "#1e2d22",
+                    "align": "left",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Syne",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 49,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 40,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.08,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "a63426f",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "A Pedret i Marzà, al cor de l'Alt Empordà, cultivem els nostres alvocats amb passió, respectant la natura i apostant per una agricultura sostenible i de proximitat.",
+                    "text_color": "#1e2d22",
+                    "align": "left",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.4,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "b7430ff",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "El nostre propòsit és oferir-te alvocats de la màxima qualitat, collits al punt òptim i directament de la nostra finca a casa teva.",
+                    "text_color": "#1e2d22",
+                    "align": "left",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 19,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.4,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "d5765df",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "Descobreix la nostra finca",
+                    "link": {
+                      "url": "/la-nostra-finca/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    },
+                    "align": "left",
+                    "size": "md",
+                    "button_text_color": "#ffffff",
+                    "background_color": "#5e7b2c",
+                    "button_background_hover_color": "#4c6622",
+                    "hover_color": "#ffffff",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "999",
+                      "right": "999",
+                      "bottom": "999",
+                      "left": "999",
+                      "isLinked": true
+                    },
+                    "text_padding": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "34",
+                      "bottom": "12",
+                      "left": "34",
+                      "isLinked": false
+                    },
+                    "typography_typography": "custom",
+                    "typography_font_family": "Cormorant Garamond",
+                    "typography_font_weight": "600",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16.6,
+                      "sizes": []
+                    },
+                    "typography_text_transform": "uppercase",
+                    "typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.6,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "028938a",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px",
+                      "size": 0
+                    },
+                    "flex_wrap": "nowrap",
+                    "flex_direction": "row",
+                    "flex_justify_content": "flex-start",
+                    "padding": {
+                      "unit": "px",
+                      "top": "20",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "padding_tablet": {
+                      "unit": "px",
+                      "top": "16",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "16",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "flex_wrap_tablet": "wrap",
+                    "flex_wrap_mobile": "wrap"
+                  },
+                  "elements": [
+                    {
+                      "id": "4896d26",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "column": "6",
+                          "row": "6",
+                          "isLinked": true,
+                          "unit": "px",
+                          "size": 6
+                        },
+                        "width": {
+                          "unit": "%",
+                          "size": 25,
+                          "sizes": []
+                        },
+                        "width_tablet": {
+                          "unit": "%",
+                          "size": 50,
+                          "sizes": []
+                        },
+                        "width_mobile": {
+                          "unit": "%",
+                          "size": 50,
+                          "sizes": []
+                        },
+                        "flex_align_items": "center",
+                        "padding": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "22",
+                          "bottom": "4",
+                          "left": "22",
+                          "isLinked": false
+                        },
+                        "padding_tablet": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "12",
+                          "bottom": "4",
+                          "left": "12",
+                          "isLinked": false
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "8",
+                          "bottom": "4",
+                          "left": "8",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "f20d82f",
+                          "elType": "widget",
+                          "widgetType": "icon",
+                          "settings": {
+                            "selected_icon": {
+                              "value": "fas fa-seedling",
+                              "library": "fa-solid"
+                            },
+                            "primary_color": "#1e2d22",
+                            "size": {
+                              "unit": "px",
+                              "size": 34,
+                              "sizes": []
+                            },
+                            "align": "center"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "f409f6b",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "Cultiu ecològic",
+                            "header_size": "p",
+                            "title_color": "#1e2d22",
+                            "align": "center",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Cormorant Garamond",
+                            "typography_font_weight": "700",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 11,
+                              "sizes": []
+                            },
+                            "typography_font_size_tablet": {
+                              "unit": "px",
+                              "size": 11,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 10.5,
+                              "sizes": []
+                            },
+                            "typography_text_transform": "uppercase",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.25,
+                              "sizes": []
+                            },
+                            "typography_letter_spacing": {
+                              "unit": "px",
+                              "size": 0.75,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ],
+                      "isInner": true
+                    },
+                    {
+                      "id": "ecca761",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "column": "6",
+                          "row": "6",
+                          "isLinked": true,
+                          "unit": "px",
+                          "size": 6
+                        },
+                        "width": {
+                          "unit": "%",
+                          "size": 25,
+                          "sizes": []
+                        },
+                        "width_tablet": {
+                          "unit": "%",
+                          "size": 50,
+                          "sizes": []
+                        },
+                        "width_mobile": {
+                          "unit": "%",
+                          "size": 50,
+                          "sizes": []
+                        },
+                        "flex_align_items": "center",
+                        "padding": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "22",
+                          "bottom": "4",
+                          "left": "22",
+                          "isLinked": false
+                        },
+                        "padding_tablet": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "12",
+                          "bottom": "4",
+                          "left": "12",
+                          "isLinked": false
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "8",
+                          "bottom": "4",
+                          "left": "8",
+                          "isLinked": false
+                        },
+                        "border_border": "solid",
+                        "border_color": "rgba(30,45,34,0.35)",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "1",
+                          "isLinked": false
+                        },
+                        "border_width_tablet": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "1",
+                          "isLinked": false
+                        },
+                        "border_width_mobile": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "1",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "aad5c78",
+                          "elType": "widget",
+                          "widgetType": "icon",
+                          "settings": {
+                            "selected_icon": {
+                              "value": "fas fa-location-dot",
+                              "library": "fa-solid"
+                            },
+                            "primary_color": "#1e2d22",
+                            "size": {
+                              "unit": "px",
+                              "size": 34,
+                              "sizes": []
+                            },
+                            "align": "center"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "3d8757b",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "Al cor de l'Empordà",
+                            "header_size": "p",
+                            "title_color": "#1e2d22",
+                            "align": "center",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Cormorant Garamond",
+                            "typography_font_weight": "700",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 11,
+                              "sizes": []
+                            },
+                            "typography_font_size_tablet": {
+                              "unit": "px",
+                              "size": 11,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 10.5,
+                              "sizes": []
+                            },
+                            "typography_text_transform": "uppercase",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.25,
+                              "sizes": []
+                            },
+                            "typography_letter_spacing": {
+                              "unit": "px",
+                              "size": 0.75,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ],
+                      "isInner": true
+                    },
+                    {
+                      "id": "65d0efc",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "column": "6",
+                          "row": "6",
+                          "isLinked": true,
+                          "unit": "px",
+                          "size": 6
+                        },
+                        "width": {
+                          "unit": "%",
+                          "size": 25,
+                          "sizes": []
+                        },
+                        "width_tablet": {
+                          "unit": "%",
+                          "size": 50,
+                          "sizes": []
+                        },
+                        "width_mobile": {
+                          "unit": "%",
+                          "size": 50,
+                          "sizes": []
+                        },
+                        "flex_align_items": "center",
+                        "padding": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "22",
+                          "bottom": "4",
+                          "left": "22",
+                          "isLinked": false
+                        },
+                        "padding_tablet": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "12",
+                          "bottom": "4",
+                          "left": "12",
+                          "isLinked": false
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "8",
+                          "bottom": "4",
+                          "left": "8",
+                          "isLinked": false
+                        },
+                        "border_border": "solid",
+                        "border_color": "rgba(30,45,34,0.35)",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "1",
+                          "isLinked": false
+                        },
+                        "border_width_tablet": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "border_width_mobile": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "2af7744",
+                          "elType": "widget",
+                          "widgetType": "icon",
+                          "settings": {
+                            "selected_icon": {
+                              "value": "fas fa-hand-holding-heart",
+                              "library": "fa-solid"
+                            },
+                            "primary_color": "#1e2d22",
+                            "size": {
+                              "unit": "px",
+                              "size": 34,
+                              "sizes": []
+                            },
+                            "align": "center"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "b6b290b",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "Respecte per la natura",
+                            "header_size": "p",
+                            "title_color": "#1e2d22",
+                            "align": "center",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Cormorant Garamond",
+                            "typography_font_weight": "700",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 11,
+                              "sizes": []
+                            },
+                            "typography_font_size_tablet": {
+                              "unit": "px",
+                              "size": 11,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 10.5,
+                              "sizes": []
+                            },
+                            "typography_text_transform": "uppercase",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.25,
+                              "sizes": []
+                            },
+                            "typography_letter_spacing": {
+                              "unit": "px",
+                              "size": 0.75,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ],
+                      "isInner": true
+                    },
+                    {
+                      "id": "904971a",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "column": "6",
+                          "row": "6",
+                          "isLinked": true,
+                          "unit": "px",
+                          "size": 6
+                        },
+                        "width": {
+                          "unit": "%",
+                          "size": 25,
+                          "sizes": []
+                        },
+                        "width_tablet": {
+                          "unit": "%",
+                          "size": 50,
+                          "sizes": []
+                        },
+                        "width_mobile": {
+                          "unit": "%",
+                          "size": 50,
+                          "sizes": []
+                        },
+                        "flex_align_items": "center",
+                        "padding": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "22",
+                          "bottom": "4",
+                          "left": "22",
+                          "isLinked": false
+                        },
+                        "padding_tablet": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "12",
+                          "bottom": "4",
+                          "left": "12",
+                          "isLinked": false
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "4",
+                          "right": "8",
+                          "bottom": "4",
+                          "left": "8",
+                          "isLinked": false
+                        },
+                        "border_border": "solid",
+                        "border_color": "rgba(30,45,34,0.35)",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "1",
+                          "isLinked": false
+                        },
+                        "border_width_tablet": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "1",
+                          "isLinked": false
+                        },
+                        "border_width_mobile": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "1",
+                          "isLinked": false
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "9778813",
+                          "elType": "widget",
+                          "widgetType": "icon",
+                          "settings": {
+                            "selected_icon": {
+                              "value": "fas fa-heart",
+                              "library": "fa-solid"
+                            },
+                            "primary_color": "#1e2d22",
+                            "size": {
+                              "unit": "px",
+                              "size": 34,
+                              "sizes": []
+                            },
+                            "align": "center"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "25c24d1",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "Passió per l'alvocat",
+                            "header_size": "p",
+                            "title_color": "#1e2d22",
+                            "align": "center",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Cormorant Garamond",
+                            "typography_font_weight": "700",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 11,
+                              "sizes": []
+                            },
+                            "typography_font_size_tablet": {
+                              "unit": "px",
+                              "size": 11,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 10.5,
+                              "sizes": []
+                            },
+                            "typography_text_transform": "uppercase",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.25,
+                              "sizes": []
+                            },
+                            "typography_letter_spacing": {
+                              "unit": "px",
+                              "size": 0.75,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ],
+                      "isInner": true
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "423e4f0",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "8",
+                  "row": "8",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 8
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 48,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "bd4ff17",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/finca-orchard.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Alvocats a l'arbre amb l'Alt Empordà al fons",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "c973301",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_gap": {
+                      "column": "0",
+                      "row": "0",
+                      "isLinked": true,
+                      "unit": "px",
+                      "size": 0
+                    },
+                    "flex_wrap": "nowrap",
+                    "flex_direction": "row"
+                  },
+                  "elements": [
+                    {
+                      "id": "28260ee",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "https://naniiqr.github.io/chapin-handyman-llc/img/finca-bright.webp",
+                          "id": "",
+                          "size": "",
+                          "alt": "Alvocats al sol",
+                          "source": "library"
+                        },
+                        "image_size": "full",
+                        "align": "center",
+                        "width": {
+                          "unit": "%",
+                          "size": 100,
+                          "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                          "unit": "%",
+                          "size": 33.3,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "3fc59a8",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "https://naniiqr.github.io/chapin-handyman-llc/img/finca-sun.webp",
+                          "id": "",
+                          "size": "",
+                          "alt": "Alvocats a l'arbre",
+                          "source": "library"
+                        },
+                        "image_size": "full",
+                        "align": "center",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                          "unit": "%",
+                          "size": 33.3,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "65c0ce1",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "https://naniiqr.github.io/chapin-handyman-llc/img/finca-sky.webp",
+                          "id": "",
+                          "size": "",
+                          "alt": "Alvocats a l'arbre",
+                          "source": "library"
+                        },
+                        "image_size": "full",
+                        "align": "center",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                          "unit": "%",
+                          "size": 33.3,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "326a5ae",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px",
+          "size": 0
+        },
+        "padding": {
+          "unit": "px",
+          "top": "72",
+          "right": "46",
+          "bottom": "72",
+          "left": "46",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "48",
+          "right": "24",
+          "bottom": "48",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "40",
+          "right": "16",
+          "bottom": "40",
+          "left": "16",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#f1f6d6",
+        "custom_css": "selector{position:relative;overflow:hidden;isolation:isolate}selector::before,selector::after{content:'';position:absolute;z-index:-1;top:6%;bottom:6%;width:clamp(120px,18vw,260px);background:url(https://naniiqr.github.io/chapin-handyman-llc/img/leaf.png) center/contain no-repeat;opacity:.15;filter:blur(2.2px) brightness(.7) sepia(.4) hue-rotate(40deg);pointer-events:none}selector::before{left:-1%;transform:scaleX(-1) rotate(-14deg)}selector::after{right:-1%;transform:rotate(10deg)}"
+      },
+      "elements": [
+        {
+          "id": "8ae49dd",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "column": "8",
+              "row": "8",
+              "isLinked": true,
+              "unit": "px",
+              "size": 8
+            },
+            "flex_align_items": "center",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "38",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "28",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "24",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "d1212f7",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Receptes amb alvocats",
+                "header_size": "p",
+                "title_color": "#1e2d22",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Syne",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 11.5,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.3,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 0.65,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "f9f676d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Idees fàcils, sanes i delicioses",
+                "header_size": "h2",
+                "title_color": "#1e2d22",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Syne",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 45,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 28,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.08,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "c2dc641",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Descobreix com gaudir dels nostres alvocats cada dia amb receptes simples i plenes de sabor.",
+                "text_color": "#1e2d22",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Cormorant Garamond",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.4,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "94f3b3a",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_gap": {
+              "column": "28",
+              "row": "28",
+              "isLinked": true,
+              "unit": "px",
+              "size": 28
+            },
+            "flex_wrap": "nowrap",
+            "flex_direction": "row",
+            "flex_wrap_tablet": "wrap",
+            "flex_wrap_mobile": "wrap",
+            "flex_gap_tablet": {
+              "column": "20",
+              "row": "20",
+              "isLinked": true,
+              "unit": "px",
+              "size": 20
+            },
+            "flex_gap_mobile": {
+              "column": "16",
+              "row": "16",
+              "isLinked": true,
+              "unit": "px",
+              "size": 16
+            }
+          },
+          "elements": [
+            {
+              "id": "af5d775",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 0
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33.3,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#cddabd",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "22",
+                  "right": "22",
+                  "bottom": "22",
+                  "left": "22",
+                  "isLinked": true
+                },
+                "overflow": "hidden"
+              },
+              "elements": [
+                {
+                  "id": "e099ccf",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/recipe-torrada.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Torrada d'alvocat mediterrània",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "ea4e7f8",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_gap": {
+                      "column": "10",
+                      "row": "10",
+                      "isLinked": true,
+                      "unit": "px",
+                      "size": 10
+                    },
+                    "flex_wrap": "nowrap",
+                    "flex_direction": "row",
+                    "flex_justify_content": "space-between",
+                    "flex_align_items": "center",
+                    "padding": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "18",
+                      "bottom": "16",
+                      "left": "18",
+                      "isLinked": false
+                    },
+                    "padding_tablet": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "18",
+                      "bottom": "16",
+                      "left": "18",
+                      "isLinked": false
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "16",
+                      "bottom": "16",
+                      "left": "16",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "6faaaa2",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "column": "2",
+                          "row": "2",
+                          "isLinked": true,
+                          "unit": "px",
+                          "size": 2
+                        },
+                        "width": {
+                          "unit": "%",
+                          "size": 85,
+                          "sizes": []
+                        },
+                        "width_tablet": {
+                          "unit": "%",
+                          "size": 85,
+                          "sizes": []
+                        },
+                        "width_mobile": {
+                          "unit": "%",
+                          "size": 85,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "580d24f",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "Torrada d'alvocat mediterrània",
+                            "header_size": "h3",
+                            "title_color": "#1e2d22",
+                            "align": "left",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Cormorant Garamond",
+                            "typography_font_weight": "700",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 19.4,
+                              "sizes": []
+                            },
+                            "typography_font_size_tablet": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 18,
+                              "sizes": []
+                            },
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.15,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "2cb91ab",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "editor": "Una recepta ràpida, fresca i deliciosa per qualsevol moment del dia.",
+                            "text_color": "#1e2d22",
+                            "align": "left",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Cormorant Garamond",
+                            "typography_font_weight": "600",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 17,
+                              "sizes": []
+                            },
+                            "typography_font_size_tablet": {
+                              "unit": "px",
+                              "size": 17,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 16.5,
+                              "sizes": []
+                            },
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.25,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ],
+                      "isInner": true
+                    },
+                    {
+                      "id": "58904af",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-seedling",
+                          "library": "fa-solid"
+                        },
+                        "view": "stacked",
+                        "shape": "circle",
+                        "primary_color": "#5e7b2c",
+                        "secondary_color": "#ffffff",
+                        "size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "icon_padding": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "align": "right"
+                      },
+                      "elements": []
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "8ab775b",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 0
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33.3,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#cddabd",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "22",
+                  "right": "22",
+                  "bottom": "22",
+                  "left": "22",
+                  "isLinked": true
+                },
+                "overflow": "hidden"
+              },
+              "elements": [
+                {
+                  "id": "031a4b1",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/recipe-guacamole.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Guacamole de la casa",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "link_to": "custom",
+                    "link": {
+                      "url": "/receptes/guacamole-de-la-casa/",
+                      "is_external": "",
+                      "nofollow": "",
+                      "custom_attributes": ""
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "93ffc7f",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_gap": {
+                      "column": "10",
+                      "row": "10",
+                      "isLinked": true,
+                      "unit": "px",
+                      "size": 10
+                    },
+                    "flex_wrap": "nowrap",
+                    "flex_direction": "row",
+                    "flex_justify_content": "space-between",
+                    "flex_align_items": "center",
+                    "padding": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "18",
+                      "bottom": "16",
+                      "left": "18",
+                      "isLinked": false
+                    },
+                    "padding_tablet": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "18",
+                      "bottom": "16",
+                      "left": "18",
+                      "isLinked": false
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "16",
+                      "bottom": "16",
+                      "left": "16",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "3dc7cc3",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "column": "2",
+                          "row": "2",
+                          "isLinked": true,
+                          "unit": "px",
+                          "size": 2
+                        },
+                        "width": {
+                          "unit": "%",
+                          "size": 85,
+                          "sizes": []
+                        },
+                        "width_tablet": {
+                          "unit": "%",
+                          "size": 85,
+                          "sizes": []
+                        },
+                        "width_mobile": {
+                          "unit": "%",
+                          "size": 85,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "8ed5e75",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "Guacamole de la casa",
+                            "header_size": "h3",
+                            "title_color": "#1e2d22",
+                            "align": "left",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Cormorant Garamond",
+                            "typography_font_weight": "700",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 19.4,
+                              "sizes": []
+                            },
+                            "typography_font_size_tablet": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 18,
+                              "sizes": []
+                            },
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.15,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "7ac1c11",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "editor": "La recepta clàssica amb un toc especial de l'Empordà.",
+                            "text_color": "#1e2d22",
+                            "align": "left",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Cormorant Garamond",
+                            "typography_font_weight": "600",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 17,
+                              "sizes": []
+                            },
+                            "typography_font_size_tablet": {
+                              "unit": "px",
+                              "size": 17,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 16.5,
+                              "sizes": []
+                            },
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.25,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ],
+                      "isInner": true
+                    },
+                    {
+                      "id": "aa213f4",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-seedling",
+                          "library": "fa-solid"
+                        },
+                        "view": "stacked",
+                        "shape": "circle",
+                        "primary_color": "#5e7b2c",
+                        "secondary_color": "#ffffff",
+                        "size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "icon_padding": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "align": "right"
+                      },
+                      "elements": []
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "4ba4f16",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "0",
+                  "row": "0",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 0
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 33.3,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 50,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#cddabd",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "22",
+                  "right": "22",
+                  "bottom": "22",
+                  "left": "22",
+                  "isLinked": true
+                },
+                "overflow": "hidden"
+              },
+              "elements": [
+                {
+                  "id": "453d7d0",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://naniiqr.github.io/chapin-handyman-llc/img/recipe-amanida.webp",
+                      "id": "",
+                      "size": "",
+                      "alt": "Amanida d'alvocat, tomàquet i burrata",
+                      "source": "library"
+                    },
+                    "image_size": "full",
+                    "align": "center",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "4a62403",
+                  "elType": "container",
+                  "settings": {
+                    "content_width": "full",
+                    "flex_gap": {
+                      "column": "10",
+                      "row": "10",
+                      "isLinked": true,
+                      "unit": "px",
+                      "size": 10
+                    },
+                    "flex_wrap": "nowrap",
+                    "flex_direction": "row",
+                    "flex_justify_content": "space-between",
+                    "flex_align_items": "center",
+                    "padding": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "18",
+                      "bottom": "16",
+                      "left": "18",
+                      "isLinked": false
+                    },
+                    "padding_tablet": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "18",
+                      "bottom": "16",
+                      "left": "18",
+                      "isLinked": false
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "16",
+                      "bottom": "16",
+                      "left": "16",
+                      "isLinked": false
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "fa8650a",
+                      "elType": "container",
+                      "settings": {
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "column": "2",
+                          "row": "2",
+                          "isLinked": true,
+                          "unit": "px",
+                          "size": 2
+                        },
+                        "width": {
+                          "unit": "%",
+                          "size": 85,
+                          "sizes": []
+                        },
+                        "width_tablet": {
+                          "unit": "%",
+                          "size": 85,
+                          "sizes": []
+                        },
+                        "width_mobile": {
+                          "unit": "%",
+                          "size": 85,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "b361c6c",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "Amanida d'alvocat, tomàquet i burrata",
+                            "header_size": "h3",
+                            "title_color": "#1e2d22",
+                            "align": "left",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Cormorant Garamond",
+                            "typography_font_weight": "700",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 19.4,
+                              "sizes": []
+                            },
+                            "typography_font_size_tablet": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 18,
+                              "sizes": []
+                            },
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.15,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "11a98a3",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "settings": {
+                            "editor": "Una combinació perfecta de sabors i textures.",
+                            "text_color": "#1e2d22",
+                            "align": "left",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Cormorant Garamond",
+                            "typography_font_weight": "600",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 17,
+                              "sizes": []
+                            },
+                            "typography_font_size_tablet": {
+                              "unit": "px",
+                              "size": 17,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 16.5,
+                              "sizes": []
+                            },
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.25,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ],
+                      "isInner": true
+                    },
+                    {
+                      "id": "0901018",
+                      "elType": "widget",
+                      "widgetType": "icon",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-seedling",
+                          "library": "fa-solid"
+                        },
+                        "view": "stacked",
+                        "shape": "circle",
+                        "primary_color": "#5e7b2c",
+                        "secondary_color": "#ffffff",
+                        "size": {
+                          "unit": "px",
+                          "size": 14,
+                          "sizes": []
+                        },
+                        "icon_padding": {
+                          "unit": "px",
+                          "size": 8,
+                          "sizes": []
+                        },
+                        "align": "right"
+                      },
+                      "elements": []
+                    }
+                  ],
+                  "isInner": true
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        },
+        {
+          "id": "24dd49f",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "padding": {
+              "unit": "px",
+              "top": "36",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "28",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "24",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "5970a1d",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Descobreix totes les receptes",
+                "link": {
+                  "url": "/receptes/",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "center",
+                "size": "md",
+                "button_text_color": "#ffffff",
+                "background_color": "#5e7b2c",
+                "button_background_hover_color": "#4c6622",
+                "hover_color": "#ffffff",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "999",
+                  "right": "999",
+                  "bottom": "999",
+                  "left": "999",
+                  "isLinked": true
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": "12",
+                  "right": "34",
+                  "bottom": "12",
+                  "left": "34",
+                  "isLinked": false
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Cormorant Garamond",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16.6,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 0.6,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "926bf49",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "flex_direction": "row",
+        "flex_direction_tablet": "column",
+        "flex_direction_mobile": "column",
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px",
+          "size": 0
+        }
+      },
+      "elements": [
+        {
+          "id": "4f91490",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 50,
+              "sizes": []
+            },
+            "width_tablet": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "min_height": {
+              "unit": "px",
+              "size": 440,
+              "sizes": []
+            },
+            "min_height_tablet": {
+              "unit": "px",
+              "size": 300,
+              "sizes": []
+            },
+            "min_height_mobile": {
+              "unit": "px",
+              "size": 240,
+              "sizes": []
+            },
+            "background_background": "classic",
+            "background_image": {
+              "url": "https://naniiqr.github.io/chapin-handyman-llc/img/bg-canasta.webp",
+              "id": "",
+              "size": "",
+              "alt": "",
+              "source": "library"
+            },
+            "background_position": "center center",
+            "background_size": "cover"
+          },
+          "elements": [],
+          "isInner": true
+        },
+        {
+          "id": "2fed88b",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "column": "10",
+              "row": "10",
+              "isLinked": true,
+              "unit": "px",
+              "size": 10
+            },
+            "width": {
+              "unit": "%",
+              "size": 50,
+              "sizes": []
+            },
+            "width_tablet": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_justify_content": "center",
+            "padding": {
+              "unit": "px",
+              "top": "46",
+              "right": "52",
+              "bottom": "46",
+              "left": "52",
+              "isLinked": false
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "32",
+              "right": "28",
+              "bottom": "32",
+              "left": "28",
+              "isLinked": false
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "28",
+              "right": "20",
+              "bottom": "28",
+              "left": "20",
+              "isLinked": false
+            },
+            "background_background": "classic",
+            "background_color": "#dedcf1"
+          },
+          "elements": [
+            {
+              "id": "072248b",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Uneix-te a Arrels de l'Empordà",
+                "header_size": "p",
+                "title_color": "#1e2d22",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Syne",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 11.5,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.3,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 0.65,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "26f2662",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Rep novetats, receptes i ofertes especials",
+                "header_size": "h2",
+                "title_color": "#1e2d22",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Syne",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 28.8,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 26,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.1,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "d66d4db",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Subscriu-te i sigues el primer a descobrir tot el que envolta el nostre món de l'alvocat.",
+                "text_color": "#1e2d22",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Cormorant Garamond",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16.5,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 16.5,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.4,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "1a03111",
+              "elType": "widget",
+              "widgetType": "form",
+              "settings": {
+                "form_name": "Subscripció butlletí",
+                "form_fields": [
+                  {
+                    "_id": "email",
+                    "custom_id": "email",
+                    "field_type": "email",
+                    "field_label": "El teu email*",
+                    "placeholder": "",
+                    "required": "true",
+                    "width": "100",
+                    "css_classes": ""
+                  }
+                ],
+                "button_text": "Subscriu-m'hi",
+                "submit_actions": [
+                  "email"
+                ],
+                "email_to": "info@arrelsdelemporda.cat",
+                "email_subject": "Nova subscripció al butlletí",
+                "email_from": "email@arrelsdelemporda.cat",
+                "email_from_name": "Arrels de l'Empordà",
+                "email_content": "[all-fields]",
+                "success_message": "Gràcies! Ja estàs subscrit.",
+                "show_labels": "true",
+                "mark_required": "no",
+                "label_position": "above",
+                "label_color": "#1e2d22",
+                "label_typography_typography": "custom",
+                "label_typography_font_family": "Cormorant Garamond",
+                "label_typography_font_weight": "600",
+                "label_typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "field_text_color": "#1e2d22",
+                "field_background_color": "rgba(0,0,0,0)",
+                "field_typography_typography": "custom",
+                "field_typography_font_family": "Cormorant Garamond",
+                "field_typography_font_weight": "600",
+                "field_typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "field_border_color": "#1e2d22",
+                "field_border_radius": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "button_text_color": "#ffffff",
+                "button_background_color": "#3a1f19",
+                "button_background_hover_color": "#2a1511",
+                "button_border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "button_text_padding": {
+                  "unit": "px",
+                  "top": "12",
+                  "right": "38",
+                  "bottom": "12",
+                  "left": "38",
+                  "isLinked": false
+                },
+                "button_typography_typography": "custom",
+                "button_typography_font_family": "Cormorant Garamond",
+                "button_typography_font_weight": "600",
+                "button_typography_font_size": {
+                  "unit": "px",
+                  "size": 16.6,
+                  "sizes": []
+                },
+                "button_typography_text_transform": "uppercase",
+                "button_typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 0.6,
+                  "sizes": []
+                },
+                "button_align": "end",
+                "field_border_border": "solid",
+                "field_border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "1",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": {
+    "template": "elementor_header_footer",
+    "hide_title": "yes"
+  },
+  "version": "0.4",
+  "title": "Arrels · Inici",
+  "type": "page"
+}

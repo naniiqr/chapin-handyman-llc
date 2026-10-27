@@ -1,0 +1,762 @@
+{
+  "content": [
+    {
+      "id": "1fe53ed",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "flex_direction": "row",
+        "flex_justify_content": "center",
+        "flex_align_items": "center",
+        "min_height": {
+          "unit": "px",
+          "size": 460,
+          "sizes": []
+        },
+        "min_height_tablet": {
+          "unit": "px",
+          "size": 380,
+          "sizes": []
+        },
+        "min_height_mobile": {
+          "unit": "px",
+          "size": 340,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "24",
+          "right": "24",
+          "bottom": "24",
+          "left": "24",
+          "isLinked": true
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "16",
+          "right": "16",
+          "bottom": "16",
+          "left": "16",
+          "isLinked": true
+        },
+        "background_background": "classic",
+        "background_image": {
+          "url": "https://naniiqr.github.io/chapin-handyman-llc/img/bg-cosecha.webp",
+          "id": "",
+          "size": "",
+          "alt": "",
+          "source": "library"
+        },
+        "background_position": "center center",
+        "background_size": "cover"
+      },
+      "elements": [
+        {
+          "id": "be8b257",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_direction": "column",
+            "flex_gap": {
+              "column": "10",
+              "row": "10",
+              "isLinked": true,
+              "unit": "px",
+              "size": 10
+            },
+            "flex_align_items": "center",
+            "padding": {
+              "unit": "px",
+              "top": "38",
+              "right": "40",
+              "bottom": "38",
+              "left": "40",
+              "isLinked": false
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "30",
+              "right": "30",
+              "bottom": "30",
+              "left": "30",
+              "isLinked": true
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "24",
+              "right": "22",
+              "bottom": "24",
+              "left": "22",
+              "isLinked": false
+            },
+            "background_background": "classic",
+            "background_color": "rgba(205,218,189,0.86)",
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "1",
+              "right": "1",
+              "bottom": "1",
+              "left": "1",
+              "isLinked": true
+            },
+            "border_color": "rgba(255,255,255,0.55)",
+            "custom_css": "selector>.e-con-inner,selector{}selector{-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}",
+            "width": {
+              "unit": "px",
+              "size": 560,
+              "sizes": []
+            },
+            "width_tablet": {
+              "unit": "%",
+              "size": 70,
+              "sizes": []
+            },
+            "width_mobile": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            }
+          },
+          "elements": [
+            {
+              "id": "351b336",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Contacte",
+                "header_size": "p",
+                "title_color": "#4c6622",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Syne",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 11.5,
+                  "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.3,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "px",
+                  "size": 0.65,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "f1c7aab",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Contacta amb nosaltres",
+                "header_size": "h1",
+                "title_color": "#1e2d22",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Syne",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 43,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 28,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.08,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "2bab73b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Tens alguna pregunta sobre els nostres alvocats o sobre una comanda? Escriu-nos i et respondrem el més aviat possible.",
+                "text_color": "#1e2d22",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Cormorant Garamond",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.3,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "a147de3",
+      "elType": "container",
+      "settings": {
+        "content_width": "full",
+        "flex_direction": "column",
+        "flex_gap": {
+          "column": "0",
+          "row": "0",
+          "isLinked": true,
+          "unit": "px",
+          "size": 0
+        },
+        "padding": {
+          "unit": "px",
+          "top": "70",
+          "right": "46",
+          "bottom": "70",
+          "left": "46",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "44",
+          "right": "24",
+          "bottom": "44",
+          "left": "24",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "36",
+          "right": "16",
+          "bottom": "36",
+          "left": "16",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "321fe88",
+          "elType": "container",
+          "settings": {
+            "content_width": "full",
+            "flex_gap": {
+              "column": "64",
+              "row": "64",
+              "isLinked": true,
+              "unit": "px",
+              "size": 64
+            },
+            "flex_wrap": "nowrap",
+            "flex_direction": "row",
+            "flex_direction_tablet": "column",
+            "flex_direction_mobile": "column",
+            "flex_align_items": "flex-start",
+            "flex_gap_tablet": {
+              "column": "32",
+              "row": "32",
+              "isLinked": true,
+              "unit": "px",
+              "size": 32
+            },
+            "flex_gap_mobile": {
+              "column": "28",
+              "row": "28",
+              "isLinked": true,
+              "unit": "px",
+              "size": 28
+            }
+          },
+          "elements": [
+            {
+              "id": "d2467db",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "18",
+                  "row": "18",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 18
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 42,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                }
+              },
+              "elements": [
+                {
+                  "id": "f40aefb",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Dades de contacte",
+                    "header_size": "h2",
+                    "title_color": "#1e2d22",
+                    "align": "left",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Syne",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 34,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 26,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.08,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "9e3bbb5",
+                  "elType": "widget",
+                  "widgetType": "icon-list",
+                  "settings": {
+                    "icon_list": [
+                      {
+                        "_id": "f84fef1",
+                        "text": "+34 600 000 000",
+                        "selected_icon": {
+                          "value": "fas fa-phone",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "tel:+34600000000",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      {
+                        "_id": "4feae6e",
+                        "text": "info@arrelsdelemporda.cat",
+                        "selected_icon": {
+                          "value": "fas fa-envelope",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "mailto:info@arrelsdelemporda.cat",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      },
+                      {
+                        "_id": "47ac744",
+                        "text": "Pedret i Marzà, Alt Empordà (Girona)",
+                        "selected_icon": {
+                          "value": "fas fa-location-dot",
+                          "library": "fa-solid"
+                        },
+                        "link": {
+                          "url": "",
+                          "is_external": "",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        }
+                      }
+                    ],
+                    "view": "traditional",
+                    "icon_color": "#4c6622",
+                    "icon_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "text_color": "#1e2d22",
+                    "space_between": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "icon_typography_typography": "custom",
+                    "icon_typography_font_family": "Cormorant Garamond",
+                    "icon_typography_font_weight": "600",
+                    "icon_typography_font_size": {
+                      "unit": "px",
+                      "size": 22,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "4aade48",
+                  "elType": "widget",
+                  "widgetType": "google_maps",
+                  "settings": {
+                    "address": "Pedret i Marzà, Girona",
+                    "zoom": {
+                      "unit": "px",
+                      "size": 12,
+                      "sizes": []
+                    },
+                    "height": {
+                      "unit": "px",
+                      "size": 380,
+                      "sizes": []
+                    },
+                    "_margin": {
+                      "unit": "px",
+                      "top": "14",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": false
+                    },
+                    "_border_border": "solid",
+                    "_border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "_border_color": "rgba(30,45,34,0.5)"
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "408b355",
+              "elType": "container",
+              "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                  "column": "16",
+                  "row": "16",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 16
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 58,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "40",
+                  "right": "40",
+                  "bottom": "40",
+                  "left": "40",
+                  "isLinked": true
+                },
+                "padding_tablet": {
+                  "unit": "px",
+                  "top": "30",
+                  "right": "26",
+                  "bottom": "30",
+                  "left": "26",
+                  "isLinked": false
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "22",
+                  "right": "18",
+                  "bottom": "22",
+                  "left": "18",
+                  "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#d2d1c3",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "rgba(30,45,34,0.5)"
+              },
+              "elements": [
+                {
+                  "id": "13a999f",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Envia'ns un missatge",
+                    "header_size": "h2",
+                    "title_color": "#1e2d22",
+                    "align": "left",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Syne",
+                    "typography_font_weight": "700",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 34,
+                      "sizes": []
+                    },
+                    "typography_font_size_tablet": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 26,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.08,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "4c989c6",
+                  "elType": "widget",
+                  "widgetType": "form",
+                  "settings": {
+                    "form_name": "Contacte web",
+                    "form_fields": [
+                      {
+                        "_id": "nom",
+                        "custom_id": "nom",
+                        "field_type": "text",
+                        "field_label": "Nom*",
+                        "placeholder": "",
+                        "required": "true",
+                        "width": "50",
+                        "css_classes": ""
+                      },
+                      {
+                        "_id": "telefon",
+                        "custom_id": "telefon",
+                        "field_type": "tel",
+                        "field_label": "Telèfon",
+                        "placeholder": "",
+                        "required": "",
+                        "width": "50",
+                        "css_classes": ""
+                      },
+                      {
+                        "_id": "email",
+                        "custom_id": "email",
+                        "field_type": "email",
+                        "field_label": "Email*",
+                        "placeholder": "",
+                        "required": "true",
+                        "width": "100",
+                        "css_classes": ""
+                      },
+                      {
+                        "_id": "missatge",
+                        "custom_id": "missatge",
+                        "field_type": "textarea",
+                        "field_label": "Missatge*",
+                        "placeholder": "",
+                        "required": "true",
+                        "width": "100",
+                        "css_classes": "",
+                        "rows": "5"
+                      },
+                      {
+                        "_id": "privacitat",
+                        "custom_id": "privacitat",
+                        "field_type": "acceptance",
+                        "field_label": "",
+                        "placeholder": "",
+                        "required": "true",
+                        "width": "100",
+                        "css_classes": "",
+                        "acceptance_text": "He llegit i accepto la política de privacitat.",
+                        "checked_by_default": ""
+                      }
+                    ],
+                    "button_text": "Enviar missatge",
+                    "submit_actions": [
+                      "email"
+                    ],
+                    "email_to": "info@arrelsdelemporda.cat",
+                    "email_subject": "Nou missatge de contacte",
+                    "email_from": "email@arrelsdelemporda.cat",
+                    "email_from_name": "Arrels de l'Empordà",
+                    "email_content": "[all-fields]",
+                    "success_message": "Gràcies! Hem rebut el teu missatge i et respondrem aviat.",
+                    "show_labels": "true",
+                    "mark_required": "no",
+                    "label_position": "above",
+                    "label_color": "#1e2d22",
+                    "label_typography_typography": "custom",
+                    "label_typography_font_family": "Cormorant Garamond",
+                    "label_typography_font_weight": "600",
+                    "label_typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "field_text_color": "#1e2d22",
+                    "field_background_color": "#fffdf4",
+                    "field_typography_typography": "custom",
+                    "field_typography_font_family": "Cormorant Garamond",
+                    "field_typography_font_weight": "600",
+                    "field_typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "field_border_color": "#1e2d22",
+                    "field_border_radius": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "button_text_color": "#ffffff",
+                    "button_background_color": "#5e7b2c",
+                    "button_background_hover_color": "#4c6622",
+                    "button_border_radius": {
+                      "unit": "px",
+                      "top": "999",
+                      "right": "999",
+                      "bottom": "999",
+                      "left": "999",
+                      "isLinked": true
+                    },
+                    "button_text_padding": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "38",
+                      "bottom": "12",
+                      "left": "38",
+                      "isLinked": false
+                    },
+                    "button_typography_typography": "custom",
+                    "button_typography_font_family": "Cormorant Garamond",
+                    "button_typography_font_weight": "600",
+                    "button_typography_font_size": {
+                      "unit": "px",
+                      "size": 16.6,
+                      "sizes": []
+                    },
+                    "button_typography_text_transform": "uppercase",
+                    "button_typography_letter_spacing": {
+                      "unit": "px",
+                      "size": 0.6,
+                      "sizes": []
+                    },
+                    "button_align": "start",
+                    "field_border_border": "solid",
+                    "field_border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": []
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": true
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": {
+    "template": "elementor_header_footer",
+    "hide_title": "yes"
+  },
+  "version": "0.4",
+  "title": "Arrels · Contacte",
+  "type": "page"
+}
